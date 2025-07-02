@@ -32,3 +32,5 @@ New data scraped in subsequent runs are appended to the existing file, preservin
 Each book scraping attempt includes retry logic in case of failure.
 Graceful error handling ensures the script continues running even if some books fail to load.
 
+--------------------------------------------------------------------------------------------------------------
+**Script Explanation in Vedio: ** https://youtu.be/Q0yT2iZgsNU
